@@ -6,8 +6,8 @@
 | Nama Lengkap | *Muhammad Nurifqi Praulan* |
 | Kelas | TI-5B |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
-| Matakuliah | Grafika Komputer |
+| Matakuliah | Multi Media Grafika Komputer |
 
 # Grafika Komputer
 
-Pengumpulan Tugas Grafika Komputer 5MM 
+Pengumpulan Latihan Grafika Komputer 5MM 
