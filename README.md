@@ -9,4 +9,4 @@
 | Matakuliah | Grafika Komputer |
 
 # Grafika Komputer
-| Pengumpulan Tugas Grafika Komputer 5MMd
+| Pengumpulan Tugas Grafika Komputer 5MMd |
