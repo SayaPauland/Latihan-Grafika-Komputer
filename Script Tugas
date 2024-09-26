@@ -1,3 +1,5 @@
+*Code membuat Orang-orangan
+
 function setup() {  
   createCanvas(640, 480);
 }  
